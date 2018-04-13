@@ -10,13 +10,13 @@ class login(unittest.TestCase):
 		user ="liken"
 		pwd= "cool123456"
 		driver = webdriver.Firefox()
-		driver.get("http://localhost:8000/login/")
+		driver.find_element_by_xpath('//a[@href="/login/"]').click()
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		driver.get("http://localhost:8000/settings/password/")
+		driver.find_element_by_xpath('//a[@href="/settings/password/"]').click()
 		old_password ="cool123456"
 		new_password= "coolguyss"
 		new_password_confirmation= "coolguyss"

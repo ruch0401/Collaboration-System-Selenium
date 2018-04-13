@@ -9,7 +9,7 @@ class forget_password(unittest.TestCase):
 	def test_forget_password(self):
 		email= "anjaliagrawal41@gmail.com"
 		driver = webdriver.Firefox()
-		driver.get("http://localhost:8000/reset/")
+		driver.find_element_by_xpath('//a[@href="/reset/"]').click()
 		elem = driver.find_element_by_id("id_email")
 		elem.send_keys(email)
 		driver.find_element_by_id('reset').click()

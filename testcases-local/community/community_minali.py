@@ -12,7 +12,7 @@ class Login(unittest.TestCase):
 		driver = webdriver.Firefox()
 		driver.maximize_window() #For maximizing window
 		driver.implicitly_wait(20) #gives an implicit wait for 20 seconds
-		driver.get("http://10.129.26.119/login/?next=/")
+		driver.find_element_by_xpath('//a[@href="/login/?next=/"]').click()
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")

@@ -29,7 +29,7 @@ class signup(unittest.TestCase):
 		password= "coolguys"
 		password_confirmation= "coolguys"
 		driver = webdriver.Firefox()
-		driver.get("http://127.0.0.1:8000/signup/")
+		driver.find_element_by_xpath('//a[@href="/signup/"]').click()
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(username)
 		elem = driver.find_element_by_id("email")

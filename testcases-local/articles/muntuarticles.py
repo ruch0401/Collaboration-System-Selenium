@@ -13,10 +13,10 @@ class article(unittest.TestCase):
 		link= "gen"
 		checkbox= "click"
 		driver = webdriver.Firefox()
-		driver.get("http://10.129.26.119/articles/")
-		driver.get("http://10.129.26.119/article-view/16/")
-		driver.get("http://10.129.26.119/articles/?page=1")
-		driver.get("http://10.129.26.119/articles/?page=2")
+		driver.find_element_by_xpath('//a[@href="/articles/"]').click()
+		driver.find_element_by_xpath('//a[@href="/article-view/16/"]').click()
+		driver.find_element_by_xpath('//a[@href="/articles/?page=1"]').click()
+		driver.find_element_by_xpath('//a[@href="/articles/?page=2"]').click()
 		elem = driver.find_element_by_id("id_comment")
 		elem.send_keys(message)
 		elem = driver.find_element_by_id("id_name")
@@ -35,10 +35,11 @@ class article(unittest.TestCase):
 		driver.find_element_by_xpath("//a[@href='/community-view/17/']").click()
 		driver.find_element_by_xpath("//a[@href='/article-view/16/']").click()
 		element =driver.find_element_by_class_name("btn-primary")
-		driver.get("http://10.129.26.119/forum/forum/forts-and-palaces-18/")
+		driver.find_element_by_xpath('//a[@href="/forum/forum/forts-and-palaces-18/"]').click()
+		
 		
 	def tearDown(self):
-	        self.driver.quit()
+	    self.driver.quit()
 
 
 if __name__ == '__main__':

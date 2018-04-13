@@ -10,13 +10,13 @@ class login(unittest.TestCase):
 		user ="like"
 		pwd= "coolguyss"
 		driver = webdriver.Firefox()
-		driver.get("http://127.0.0.1:8000/login/")
+		driver.find_element_by_xpath('//a[@href="/login/"]').click()
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		driver.get("http://127.0.0.1:8000/request_community_creation/")
+		driver.find_element_by_xpath('//a[@href="/request_community_creation/"]').click()
 		name ="hab"
 		tag_line= "habli"
 		description= "ghji"

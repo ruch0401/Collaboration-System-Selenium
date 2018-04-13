@@ -1,8 +1,6 @@
 __author__== 'anjali'
 import unittest
 from selenium import webdriver
-from selenium.common.exceptions import UnexpectedAlertPresentException
-from selenium.common.exceptions import NoAlertPresentException
 
 class signup(unittest.TestCase):
 	
@@ -15,7 +13,7 @@ class signup(unittest.TestCase):
 		password= "coolguyss"
 		password_confirmation= "coolguyss"
 		driver = webdriver.Firefox()
-		driver.get("http://localhost:8000/signup/")
+		driver.find_element_by_xpath('//a[@href="/signup/"]').click()
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(username)
 		elem = driver.find_element_by_id("email")

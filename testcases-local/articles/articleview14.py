@@ -8,7 +8,6 @@ class article(unittest.TestCase):
 
 	def test_article(self):
 		driver = self.driver
-		driver.get("http://10.129.26.119")
 		driver.find_element_by_xpath('//a[@href="/articles/"]').click()
 		driver.find_element_by_xpath("//a[@href='?page=2']").click()
 		driver.find_element_by_xpath("//a[@href='?page=1']").click()
@@ -39,10 +38,11 @@ class article(unittest.TestCase):
 		# driver.find_element_by_xpath("//a[@href='/https://en.wikipedia.org/wiki/Nasya/']").click()
 		driver.find_element_by_xpath("//a[@href='/community-view/5/']").click()
 		element =driver.find_element_by_class_name("btn-primary")
-		driver.get("http://10.129.26.119/forum/forum/ayurveda-6/")
+		driver.find_element_by_xpath("//a[@href='/forum/forum/ayurveda-6/']").click()
+
 		
 	def tearDown(self):
-	        self.driver.quit()
+	    self.driver.quit()
 
 
 if __name__ == '__main__':

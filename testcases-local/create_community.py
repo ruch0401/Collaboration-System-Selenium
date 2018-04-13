@@ -1,7 +1,6 @@
 __author__= 'anjali'
 import unittest
 from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
 
 
 class Login(unittest.TestCase):
@@ -14,13 +13,13 @@ class Login(unittest.TestCase):
 		driver = webdriver.Firefox()
 		driver.maximize_window() #For maximizing window
 		driver.implicitly_wait(20) #gives an implicit wait for 20 seconds
-		driver.get("http://localhost:8000/login/?next=/")
+		driver.find_element_by_xpath('//a[@href="/login/"]').click()
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		driver.get("http://localhost:8000/create_community/")
+		driver.find_element_by_xpath('//a[@href="/create_community/"]').click()
 		name ="anj"
 		tag_line= "kl"
 		description= "anjali gtre"

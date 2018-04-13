@@ -10,13 +10,14 @@ class Login(unittest.TestCase):
 		user ="liken"
 		pwd= "coolguyss"
 		driver = webdriver.Firefox()
-		driver.get("http://localhost:8000/login/")
+		driver.find_element_by_xpath('//a[@href="/login/"]').click()
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		driver.get("http://localhost:8000/articles/")
+		driver.find_element_by_xpath('//a[@href="/articles/"]').click()
+	
 		
 	def tearDown(self):
 	        self.driver.quit()
