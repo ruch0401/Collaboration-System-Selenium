@@ -21,7 +21,7 @@ class Login(unittest.TestCase):
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		driver.find_element_by_xpath('//a[@href="/communities/"]').click()
+		driver.get("http://10.129.26.119//communities")
 		driver.find_element_by_xpath('//a[@href="/community-view/42/"]').click()
 		driver.find_element_by_xpath('//a[@href="/group-view/1/"]').click()
 		driver.find_element_by_xpath('//a[@href="/community-view/42/"]').click()

@@ -16,11 +16,8 @@ class login(unittest.TestCase):
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		name ="user_dashboard"
-		driver = webdriver.Firefox()
-		driver.find_element_by_xpath('//a[@href="/mydashboard/"]').click()
-		elem = driver.find_element_by_id("id_user_dashboard")
-		elem.send_keys(name)
+		driver.get("http://localhost:8000/mydashboard/")
+		
 		
 		
 	def tearDown(self):
@@ -28,4 +25,3 @@ class login(unittest.TestCase):
 
 if __name__ == '__main__':
 	unittest.main()
-

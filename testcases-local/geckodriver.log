@@ -4583,3 +4583,212 @@ JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4:
 1523965472846	Marionette	WARN	TLS certificate errors will be ignored for this session
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523965849829	geckodriver	INFO	geckodriver 0.19.1
+1523965849834	geckodriver	INFO	Listening on 127.0.0.1:34965
+1523965850958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0ITyWv87bWos"
+1523965851912	Marionette	INFO	Enabled via --marionette
+1523965854712	Marionette	INFO	Listening on port 44375
+1523965854776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523965854890	geckodriver	INFO	geckodriver 0.19.1
+1523965854895	geckodriver	INFO	Listening on 127.0.0.1:55303
+1523965856016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gynNDrzT8Mmp"
+1523965857154	Marionette	INFO	Enabled via --marionette
+1523965860262	Marionette	INFO	Listening on port 44967
+1523965860332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523965961095	geckodriver	INFO	geckodriver 0.19.1
+1523965961101	geckodriver	INFO	Listening on 127.0.0.1:48677
+1523965962218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I7AgVJul9iHz"
+1523965963348	Marionette	INFO	Enabled via --marionette
+1523965966372	Marionette	INFO	Listening on port 38187
+1523965966438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523965996279	geckodriver	INFO	geckodriver 0.19.1
+1523965996284	geckodriver	INFO	Listening on 127.0.0.1:39165
+1523965997396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xHgp7rkSW4n9"
+1523965998354	Marionette	INFO	Enabled via --marionette
+1523966001196	Marionette	INFO	Listening on port 46081
+1523966001222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523966001334	geckodriver	INFO	geckodriver 0.19.1
+1523966001341	geckodriver	INFO	Listening on 127.0.0.1:47969
+1523966002461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Di9Nk8I2wTsK"
+1523966003786	Marionette	INFO	Enabled via --marionette
+1523966007510	Marionette	INFO	Listening on port 33063
+1523966007586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523966086945	geckodriver	INFO	geckodriver 0.19.1
+1523966086951	geckodriver	INFO	Listening on 127.0.0.1:44521
+1523966088066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.k8I3AhXJZGum"
+1523966089052	Marionette	INFO	Enabled via --marionette
+1523966092158	Marionette	INFO	Listening on port 42169
+1523966092184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20078, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 411: Error: OS.File has been shut down. Rejecting post to stat
+1523966153236	geckodriver	INFO	geckodriver 0.19.1
+1523966153241	geckodriver	INFO	Listening on 127.0.0.1:38105
+1523966154357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Yf5LGS2NdN3v"
+1523966155292	Marionette	INFO	Enabled via --marionette
+1523966158196	Marionette	INFO	Listening on port 41631
+1523966158276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523966158388	geckodriver	INFO	geckodriver 0.19.1
+1523966158392	geckodriver	INFO	Listening on 127.0.0.1:55365
+1523966159513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5GidyAHtJ9Sj"
+1523966160914	Marionette	INFO	Enabled via --marionette
+1523966164262	Marionette	INFO	Listening on port 38203
+1523966164342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523966179326	geckodriver	INFO	geckodriver 0.19.1
+1523966179333	geckodriver	INFO	Listening on 127.0.0.1:52605
+1523966180450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YjIYrgDkPGH9"
+1523966181686	Marionette	INFO	Enabled via --marionette
+1523966184776	Marionette	INFO	Listening on port 38285
+1523966184864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 21068, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523966348717	geckodriver	INFO	geckodriver 0.19.1
+1523966348722	geckodriver	INFO	Listening on 127.0.0.1:41593
+1523966349838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s6RTtcYhSQg9"
+1523966350786	Marionette	INFO	Enabled via --marionette
+1523966353644	Marionette	INFO	Listening on port 35993
+1523966353670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523966353790	geckodriver	INFO	geckodriver 0.19.1
+1523966353793	geckodriver	INFO	Listening on 127.0.0.1:44533
+1523966354913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HPYz33381Wdm"
+1523966356218	Marionette	INFO	Enabled via --marionette
+1523966359398	Marionette	INFO	Listening on port 43275
+1523966359442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22057, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523966514108	geckodriver	INFO	geckodriver 0.19.1
+1523966514113	geckodriver	INFO	Listening on 127.0.0.1:40511
+1523966515225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9Or34pxSwdfb"
+1523966516184	Marionette	INFO	Enabled via --marionette
+1523966519484	Marionette	INFO	Listening on port 40991
+1523966519540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523966519647	geckodriver	INFO	geckodriver 0.19.1
+1523966519653	geckodriver	INFO	Listening on 127.0.0.1:46763
+1523966520781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.heDchdlvIvcW"
+1523966522114	Marionette	INFO	Enabled via --marionette
+1523966525344	Marionette	INFO	Listening on port 40839
+1523966525404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.73a792b0fbc7ab73a8e3b3db9c36a8ac.html?origin=http%3A%2F%2Flocalhost%3A8000, line 12: Error: Network error.
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523970843747	geckodriver	INFO	geckodriver 0.19.1
+1523970843751	geckodriver	INFO	Listening on 127.0.0.1:47907
+1523970844874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WAQKR30xy0gX"
+1523970845832	Marionette	INFO	Enabled via --marionette
+1523970848632	Marionette	INFO	Listening on port 37799
+1523970848698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523970848797	geckodriver	INFO	geckodriver 0.19.1
+1523970848801	geckodriver	INFO	Listening on 127.0.0.1:38297
+1523970849921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r4eEckre0SCl"
+1523970851180	Marionette	INFO	Enabled via --marionette
+1523970854508	Marionette	INFO	Listening on port 33107
+1523970854538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 360, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 360, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 360, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523971476954	geckodriver	INFO	geckodriver 0.19.1
+1523971476960	geckodriver	INFO	Listening on 127.0.0.1:53309
+1523971478073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.piiz64wOqlpw"
+1523971479028	Marionette	INFO	Enabled via --marionette
+1523971481954	Marionette	INFO	Listening on port 39303
+1523971481990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523971482099	geckodriver	INFO	geckodriver 0.19.1
+1523971482105	geckodriver	INFO	Listening on 127.0.0.1:54267
+1523971483212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Iw37RUwq2RR9"
+1523971484302	Marionette	INFO	Enabled via --marionette
+1523971487646	Marionette	INFO	Listening on port 35905
+1523971487728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 2485, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2485, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2485, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523971666438	geckodriver	INFO	geckodriver 0.19.1
+1523971666443	geckodriver	INFO	Listening on 127.0.0.1:60969
+1523971667559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7WrtboMuAxzk"
+1523971668478	Marionette	INFO	Enabled via --marionette
+1523971671662	Marionette	INFO	Listening on port 36773
+1523971671684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523971671796	geckodriver	INFO	geckodriver 0.19.1
+1523971671803	geckodriver	INFO	Listening on 127.0.0.1:47589
+1523971672918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uE6DYY1EquRJ"
+1523971674090	Marionette	INFO	Enabled via --marionette
+1523971677284	Marionette	INFO	Listening on port 45709
+1523971677338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

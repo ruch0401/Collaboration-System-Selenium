@@ -13,7 +13,7 @@ class article(unittest.TestCase):
 		link= "gen"
 		checkbox= "click"
 		driver = webdriver.Firefox()
-		driver.find_element_by_xpath('//a[@href="/articles/"]').click()
+		driver.get("http://10.129.26.119//articles")
 		driver.find_element_by_xpath('//a[@href="/article-view/18/"]').click()
 		driver.find_element_by_xpath('//a[@href="/articles/?page=1"]').click()
 		driver.find_element_by_xpath('//a[@href="/articles/?page=2"]').click()

@@ -6723,3 +6723,19 @@ JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: 
 JavaScript error: http://10.129.26.119/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
 JavaScript error: http://10.129.26.119/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
 JavaScript error: http://10.129.26.119/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523971751981	geckodriver	INFO	geckodriver 0.19.1
+1523971751985	geckodriver	INFO	Listening on 127.0.0.1:44829
+1523971753102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nCtsLTffbGyg"
+1523971754038	Marionette	INFO	Enabled via --marionette
+1523971756854	Marionette	INFO	Listening on port 36853
+1523971756920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523971757045	geckodriver	INFO	geckodriver 0.19.1
+1523971757049	geckodriver	INFO	Listening on 127.0.0.1:46435
+1523971758174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RNlV5zSj90Vn"
+1523971759464	Marionette	INFO	Enabled via --marionette
+1523971762658	Marionette	INFO	Listening on port 34167
+1523971762694	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4162, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4162, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4162, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

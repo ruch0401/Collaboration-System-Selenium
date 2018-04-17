@@ -8,7 +8,8 @@ class article(unittest.TestCase):
 
 	def test_article(self):
 		driver = self.driver
-		driver.find_element_by_xpath('//a[@href="/articles/"]').click()
+		driver = webdriver.Firefox()
+		driver.get("http://10.129.26.119//articles")
 		driver.find_element_by_xpath("//a[@href='?page=2']").click()
 		driver.find_element_by_xpath("//a[@href='?page=1']").click()
 		driver.find_element_by_xpath("//a[@href='/article-view/14/']").click()
