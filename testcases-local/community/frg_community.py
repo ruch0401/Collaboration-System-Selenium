@@ -1,7 +1,7 @@
 __author__= 'anjali'
 import unittest
 from selenium import webdriver
-
+import re
 
 
 class Login(unittest.TestCase):
@@ -11,24 +11,21 @@ class Login(unittest.TestCase):
 	def test_Login(self):
 		user="liken"
 		pwd= "coolguyss"
+		#community_id_pattern = r.compile('/community-view/[0-9]+')
 		driver = webdriver.Firefox()
 		driver.maximize_window() #For maximizing window
 		driver.implicitly_wait(20) #gives an implicit wait for 20 seconds
-		driver.find_element_by_xpath('//a[@href="/login/?next=/"]').click()
-		print ("driver.current_url>>>>>>"+driver.current_url)
+		driver.get("http://10.129.26.119//login")
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
 		driver.find_element_by_xpath('//a[@href="/communities/"]').click()
-		print ("driver.current_url>>>>>>"+driver.current_url)
 		driver.find_element_by_xpath('//a[@href="/community-view/42/"]').click()
-		print ("driver.current_url>>>>>>"+driver.current_url)
 		driver.find_element_by_xpath('//a[@href="/group-view/1/"]').click()
-		print ("driver.current_url>>>>>>"+driver.current_url)
 		driver.find_element_by_xpath('//a[@href="/community-view/42/"]').click()
-		print ("driver.current_url>>>>>>"+driver.current_url)
+		# print ("driver.current_url>>>>>>"+driver.current_url)
 		
 
 	def tearDown(self):

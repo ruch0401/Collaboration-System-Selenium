@@ -10,7 +10,7 @@ class login(unittest.TestCase):
 		user ="liken"
 		pwd= "coolguyss"
 		driver = webdriver.Firefox()
-		driver.find_element_by_xpath('//a[@href="/login/"]').click()
+		driver.get("http://localhost:8000/login/?next=/")
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")

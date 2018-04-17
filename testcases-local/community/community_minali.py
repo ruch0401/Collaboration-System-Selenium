@@ -12,7 +12,7 @@ class Login(unittest.TestCase):
 		driver = webdriver.Firefox()
 		driver.maximize_window() #For maximizing window
 		driver.implicitly_wait(20) #gives an implicit wait for 20 seconds
-		driver.find_element_by_xpath('//a[@href="/login/?next=/"]').click()
+		driver.get("http://10.129.26.119//login")#
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
@@ -40,16 +40,14 @@ class Login(unittest.TestCase):
 		elem = driver.find_element_by_id("id_followup")
 		elem.send_keys(checkbox)
 		driver.find_element_by_xpath('//a[@href="/community-view/42/"]').click()
-		print Firefox.current_url
+		#print Firefox.current_url
 		driver.find_element_by_xpath('//a[@href="/group-view/8/"]').click()
-		print Firefox.current_url
-		driver.find_element_by_xpath('//a[@href="/article-edit/9/"]').click()
-		print Firefox.current_url
-		driver.find_element_by_xpath('//a[@href="/article-revision/9/"]').click()
-		driver.find_element_by_class_name('btn-info').click()
-		driver.find_element_by_xpath('//a[@href="?version_id1=41&version_id2=43"]').click()
-		driver.find_element_by_xpath('//a[@href="?version_id1=43&version_id2=44"]').click()
-		driver.find_elements_by_name('version_id2').click()
+		#print Firefox.current_url
+		driver.find_element_by_xpath('//a[@href="/community-view/42/"]').click()
+		#driver.find_element_by_class_name('btn-info').click()
+		#driver.find_element_by_xpath('//a[@href="?version_id1=41&version_id2=43"]').click()
+		#driver.find_element_by_xpath('//a[@href="?version_id1=43&version_id2=44"]').click()
+		#driver.find_elements_by_name('version_id2').click()
 
 	def tearDown(self):
 	        self.driver.quit()

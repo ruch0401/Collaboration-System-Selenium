@@ -3151,3 +3151,1435 @@ JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4:
 [Child 517, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 517, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 517, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523959278687	geckodriver	INFO	geckodriver 0.19.1
+1523959278719	geckodriver	INFO	Listening on 127.0.0.1:43487
+1523959279979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iSbwBjk9RV0O"
+1523959281408	Marionette	INFO	Enabled via --marionette
+1523959284728	Marionette	INFO	Listening on port 42149
+1523959284842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523959284959	geckodriver	INFO	geckodriver 0.19.1
+1523959284964	geckodriver	INFO	Listening on 127.0.0.1:51293
+1523959286066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.np7tt9FL0h9P"
+1523959287008	Marionette	INFO	Enabled via --marionette
+1523959289796	Marionette	INFO	Listening on port 42521
+1523959289880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523959324192	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1523959329568	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 14779, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14779, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523959575938	geckodriver	INFO	geckodriver 0.19.1
+1523959575943	geckodriver	INFO	Listening on 127.0.0.1:33559
+1523959577059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TZFuyzot0IDx"
+1523959578574	Marionette	INFO	Enabled via --marionette
+1523959582918	Marionette	INFO	Listening on port 35053
+1523959582976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523959583074	geckodriver	INFO	geckodriver 0.19.1
+1523959583079	geckodriver	INFO	Listening on 127.0.0.1:42191
+1523959584183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j8a0mfOHum9W"
+1523959585780	Marionette	INFO	Enabled via --marionette
+1523959590844	Marionette	INFO	Listening on port 46301
+1523959590906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523959767890	geckodriver	INFO	geckodriver 0.19.1
+1523959767895	geckodriver	INFO	Listening on 127.0.0.1:60499
+1523959769007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vbb5UvDmsmu8"
+1523959770196	Marionette	INFO	Enabled via --marionette
+1523959774278	Marionette	INFO	Listening on port 42631
+1523959774334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523959774438	geckodriver	INFO	geckodriver 0.19.1
+1523959774442	geckodriver	INFO	Listening on 127.0.0.1:35139
+1523959775568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ND9cCUGyoDFe"
+1523959777826	Marionette	INFO	Enabled via --marionette
+1523959783310	Marionette	INFO	Listening on port 35101
+1523959783390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523959926610	geckodriver	INFO	geckodriver 0.19.1
+1523959926615	geckodriver	INFO	Listening on 127.0.0.1:60287
+1523959927731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.09S6GcrmXV1I"
+1523959929196	Marionette	INFO	Enabled via --marionette
+1523959934722	Marionette	INFO	Listening on port 41567
+1523959934756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523959934884	geckodriver	INFO	geckodriver 0.19.1
+1523959934889	geckodriver	INFO	Listening on 127.0.0.1:60839
+1523959936011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q9Ha07axkil9"
+1523959937956	Marionette	INFO	Enabled via --marionette
+1523959943330	Marionette	INFO	Listening on port 38839
+1523959943438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17630, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17593, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17593, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523960037657	geckodriver	INFO	geckodriver 0.19.1
+1523960037662	geckodriver	INFO	Listening on 127.0.0.1:38549
+1523960038784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KqgLnikWtyyu"
+1523960039758	Marionette	INFO	Enabled via --marionette
+1523960042608	Marionette	INFO	Listening on port 40621
+1523960042710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523960042839	geckodriver	INFO	geckodriver 0.19.1
+1523960042844	geckodriver	INFO	Listening on 127.0.0.1:53583
+1523960043961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yuRemejCAcYO"
+1523960045062	Marionette	INFO	Enabled via --marionette
+1523960048238	Marionette	INFO	Listening on port 40837
+1523960048300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 18264, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18264, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18264, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+1523960408703	geckodriver	INFO	geckodriver 0.19.1
+1523960408707	geckodriver	INFO	Listening on 127.0.0.1:57317
+1523960409815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e4Mj4ocMGQaJ"
+1523960413898	Marionette	INFO	Enabled via --marionette
+1523960417764	Marionette	INFO	Listening on port 42385
+1523960417840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523960417987	geckodriver	INFO	geckodriver 0.19.1
+1523960417992	geckodriver	INFO	Listening on 127.0.0.1:58627
+1523960419155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.37mVTZfBkEv3"
+1523960420508	Marionette	INFO	Enabled via --marionette
+1523960425598	Marionette	INFO	Listening on port 35069
+1523960425864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.73a792b0fbc7ab73a8e3b3db9c36a8ac.html?origin=http%3A%2F%2Flocalhost%3A8000, line 12: Error: Network error.
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 19697, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19697, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523960546267	geckodriver	INFO	geckodriver 0.19.1
+1523960546271	geckodriver	INFO	Listening on 127.0.0.1:51235
+1523960547384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ko0CMihcrxSO"
+1523960548406	Marionette	INFO	Enabled via --marionette
+1523960551342	Marionette	INFO	Listening on port 44081
+1523960551400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523960551498	geckodriver	INFO	geckodriver 0.19.1
+1523960551502	geckodriver	INFO	Listening on 127.0.0.1:41699
+1523960552612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BJrGqcQL4CR2"
+1523960553882	Marionette	INFO	Enabled via --marionette
+1523960557114	Marionette	INFO	Listening on port 39625
+1523960557140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523960693076	geckodriver	INFO	geckodriver 0.19.1
+1523960693082	geckodriver	INFO	Listening on 127.0.0.1:52567
+1523960694187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Dk0mBQHgzNGR"
+1523960695342	Marionette	INFO	Enabled via --marionette
+1523960698874	Marionette	INFO	Listening on port 34303
+1523960698930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523960699094	geckodriver	INFO	geckodriver 0.19.1
+1523960699100	geckodriver	INFO	Listening on 127.0.0.1:39939
+1523960700246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NgPd3P5Qd47X"
+1523960702094	Marionette	INFO	Enabled via --marionette
+1523960706722	Marionette	INFO	Listening on port 41069
+1523960706784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523960801808	geckodriver	INFO	geckodriver 0.19.1
+1523960801813	geckodriver	INFO	Listening on 127.0.0.1:42231
+1523960802934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CvE98xec4fen"
+1523960803896	Marionette	INFO	Enabled via --marionette
+1523960806674	Marionette	INFO	Listening on port 45621
+1523960806748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523960806845	geckodriver	INFO	geckodriver 0.19.1
+1523960806852	geckodriver	INFO	Listening on 127.0.0.1:34289
+1523960807982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qRRQGhkMCII7"
+1523960809164	Marionette	INFO	Enabled via --marionette
+1523960812372	Marionette	INFO	Listening on port 43815
+1523960812398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 22124, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22124, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22124, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523960951721	geckodriver	INFO	geckodriver 0.19.1
+1523960951726	geckodriver	INFO	Listening on 127.0.0.1:39227
+1523960952841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vKDVLow7mDOM"
+1523960953768	Marionette	INFO	Enabled via --marionette
+1523960956540	Marionette	INFO	Listening on port 33065
+1523960956562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523960956665	geckodriver	INFO	geckodriver 0.19.1
+1523960956671	geckodriver	INFO	Listening on 127.0.0.1:40731
+1523960957792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zx7dwLdAGfx7"
+1523960959030	Marionette	INFO	Enabled via --marionette
+1523960962100	Marionette	INFO	Listening on port 32801
+1523960962114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 22973, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22973, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+1523961116710	geckodriver	INFO	geckodriver 0.19.1
+1523961116714	geckodriver	INFO	Listening on 127.0.0.1:51951
+1523961117866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jc7ciDb38JKg"
+1523961118920	Marionette	INFO	Enabled via --marionette
+1523961122154	Marionette	INFO	Listening on port 40627
+1523961122182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523961122336	geckodriver	INFO	geckodriver 0.19.1
+1523961122342	geckodriver	INFO	Listening on 127.0.0.1:54685
+1523961123516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7owc59ruU1j8"
+1523961124930	Marionette	INFO	Enabled via --marionette
+1523961128684	Marionette	INFO	Listening on port 43319
+1523961128742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 24093, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24093, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24093, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523961314203	geckodriver	INFO	geckodriver 0.19.1
+1523961314208	geckodriver	INFO	Listening on 127.0.0.1:39051
+1523961315326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gwiiRC1frg74"
+1523961316268	Marionette	INFO	Enabled via --marionette
+1523961319162	Marionette	INFO	Listening on port 42865
+1523961319258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523961319391	geckodriver	INFO	geckodriver 0.19.1
+1523961319396	geckodriver	INFO	Listening on 127.0.0.1:55227
+1523961320506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dNCZOJkq5dsV"
+1523961321766	Marionette	INFO	Enabled via --marionette
+1523961324944	Marionette	INFO	Listening on port 32917
+1523961325022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 25072, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25072, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25072, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523961421715	geckodriver	INFO	geckodriver 0.19.1
+1523961421720	geckodriver	INFO	Listening on 127.0.0.1:42517
+1523961422836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3D8CrvALsTas"
+1523961423770	Marionette	INFO	Enabled via --marionette
+1523961426804	Marionette	INFO	Listening on port 40229
+1523961426856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523961426951	geckodriver	INFO	geckodriver 0.19.1
+1523961426955	geckodriver	INFO	Listening on 127.0.0.1:58063
+1523961428076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xEWCOn022TdV"
+1523961429286	Marionette	INFO	Enabled via --marionette
+1523961432534	Marionette	INFO	Listening on port 41045
+1523961432596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 25592, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25592, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523961589142	geckodriver	INFO	geckodriver 0.19.1
+1523961589149	geckodriver	INFO	Listening on 127.0.0.1:45399
+1523961590265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jrhLVl96tLwy"
+1523961591212	Marionette	INFO	Enabled via --marionette
+1523961594092	Marionette	INFO	Listening on port 35399
+1523961594178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523961594270	geckodriver	INFO	geckodriver 0.19.1
+1523961594276	geckodriver	INFO	Listening on 127.0.0.1:58055
+1523961595389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8IKRUFNy8RP0"
+1523961596834	Marionette	INFO	Enabled via --marionette
+1523961600164	Marionette	INFO	Listening on port 41905
+1523961600206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29456, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29415, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29415, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29415, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523961683230	geckodriver	INFO	geckodriver 0.19.1
+1523961683234	geckodriver	INFO	Listening on 127.0.0.1:38297
+1523961684373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.P8N5Uq0s6l3Z"
+1523961685596	Marionette	INFO	Enabled via --marionette
+1523961689028	Marionette	INFO	Listening on port 43271
+1523961689088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523961689224	geckodriver	INFO	geckodriver 0.19.1
+1523961689230	geckodriver	INFO	Listening on 127.0.0.1:48053
+1523961690351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IsLizIkRc1nf"
+1523961691602	Marionette	INFO	Enabled via --marionette
+1523961695636	Marionette	INFO	Listening on port 32989
+1523961695670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523961815660	geckodriver	INFO	geckodriver 0.19.1
+1523961815664	geckodriver	INFO	Listening on 127.0.0.1:55723
+1523961816788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gv1CMSj4l3MF"
+1523961817766	Marionette	INFO	Enabled via --marionette
+1523961820718	Marionette	INFO	Listening on port 46477
+1523961820802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523961820907	geckodriver	INFO	geckodriver 0.19.1
+1523961820910	geckodriver	INFO	Listening on 127.0.0.1:42259
+1523961822034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mhAXjUPF0VIB"
+1523961823244	Marionette	INFO	Enabled via --marionette
+1523961826388	Marionette	INFO	Listening on port 34979
+1523961826454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 30972, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 30972, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30972, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523962178400	geckodriver	INFO	geckodriver 0.19.1
+1523962178405	geckodriver	INFO	Listening on 127.0.0.1:53365
+1523962179523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zsCaQmiOFMMW"
+1523962181010	Marionette	INFO	Enabled via --marionette
+1523962184210	Marionette	INFO	Listening on port 39167
+1523962184254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523962184389	geckodriver	INFO	geckodriver 0.19.1
+1523962184395	geckodriver	INFO	Listening on 127.0.0.1:43091
+1523962185512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bVokAx9i7qra"
+1523962186746	Marionette	INFO	Enabled via --marionette
+1523962191338	Marionette	INFO	Listening on port 36869
+1523962191430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523962270513	geckodriver	INFO	geckodriver 0.19.1
+1523962270518	geckodriver	INFO	Listening on 127.0.0.1:60475
+1523962271640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BDqY9g9A0Kds"
+1523962273014	Marionette	INFO	Enabled via --marionette
+1523962277642	Marionette	INFO	Listening on port 38581
+1523962277666	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 655, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00CB,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32641, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32641, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523962364470	geckodriver	INFO	geckodriver 0.19.1
+1523962364475	geckodriver	INFO	Listening on 127.0.0.1:39383
+1523962365613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.u30f37HBKIez"
+1523962366758	Marionette	INFO	Enabled via --marionette
+1523962371644	Marionette	INFO	Listening on port 43507
+1523962371730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523962371847	geckodriver	INFO	geckodriver 0.19.1
+1523962371850	geckodriver	INFO	Listening on 127.0.0.1:58239
+1523962372964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KOivdIAwxyI4"
+1523962374970	Marionette	INFO	Enabled via --marionette
+1523962380254	Marionette	INFO	Listening on port 33599
+1523962380300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 1353, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1353, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+1523962489788	geckodriver	INFO	geckodriver 0.19.1
+1523962489793	geckodriver	INFO	Listening on 127.0.0.1:38579
+1523962490908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L3pQiSckycu7"
+1523962492352	Marionette	INFO	Enabled via --marionette
+1523962497058	Marionette	INFO	Listening on port 33255
+1523962497128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523962497245	geckodriver	INFO	geckodriver 0.19.1
+1523962497251	geckodriver	INFO	Listening on 127.0.0.1:58517
+1523962498367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NIHwQLhY06Kp"
+1523962500100	Marionette	INFO	Enabled via --marionette
+1523962506430	Marionette	INFO	Listening on port 37921
+1523962506500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 1807, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1807, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1807, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523962564339	geckodriver	INFO	geckodriver 0.19.1
+1523962564344	geckodriver	INFO	Listening on 127.0.0.1:53949
+1523962565459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0dkFV56B3qjd"
+1523962566890	Marionette	INFO	Enabled via --marionette
+1523962570530	Marionette	INFO	Listening on port 39189
+1523962570580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523962570689	geckodriver	INFO	geckodriver 0.19.1
+1523962570694	geckodriver	INFO	Listening on 127.0.0.1:33017
+1523962571813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MeZddRbdWdhG"
+1523962573180	Marionette	INFO	Enabled via --marionette
+1523962576768	Marionette	INFO	Listening on port 32889
+1523962576830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2711, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523962729033	geckodriver	INFO	geckodriver 0.19.1
+1523962729038	geckodriver	INFO	Listening on 127.0.0.1:49959
+1523962730152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.onG7ukTq8UtS"
+1523962731144	Marionette	INFO	Enabled via --marionette
+1523962734074	Marionette	INFO	Listening on port 40519
+1523962734174	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523962734304	geckodriver	INFO	geckodriver 0.19.1
+1523962734310	geckodriver	INFO	Listening on 127.0.0.1:43317
+1523962735438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yLdTak4iyPqH"
+1523962737046	Marionette	INFO	Enabled via --marionette
+1523962740612	Marionette	INFO	Listening on port 33249
+1523962740670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523962868609	geckodriver	INFO	geckodriver 0.19.1
+1523962868614	geckodriver	INFO	Listening on 127.0.0.1:38529
+1523962869729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z0rqFkKrvdtv"
+1523962870732	Marionette	INFO	Enabled via --marionette
+1523962873802	Marionette	INFO	Listening on port 46823
+1523962873848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523962873965	geckodriver	INFO	geckodriver 0.19.1
+1523962873970	geckodriver	INFO	Listening on 127.0.0.1:48969
+1523962875087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ha7nYArw8Lob"
+1523962876312	Marionette	INFO	Enabled via --marionette
+1523962879688	Marionette	INFO	Listening on port 33829
+1523962879710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523963093387	geckodriver	INFO	geckodriver 0.19.1
+1523963093391	geckodriver	INFO	Listening on 127.0.0.1:42507
+1523963094517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tzWNA2radKdu"
+1523963095698	Marionette	INFO	Enabled via --marionette
+1523963098754	Marionette	INFO	Listening on port 46813
+1523963098834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523963098937	geckodriver	INFO	geckodriver 0.19.1
+1523963098941	geckodriver	INFO	Listening on 127.0.0.1:56913
+1523963100059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X8Sgsprrg65U"
+1523963101848	Marionette	INFO	Enabled via --marionette
+1523963105152	Marionette	INFO	Listening on port 43505
+1523963105180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523963228094	geckodriver	INFO	geckodriver 0.19.1
+1523963228098	geckodriver	INFO	Listening on 127.0.0.1:55099
+1523963229269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OHu3fkqvjF7X"
+1523963230354	Marionette	INFO	Enabled via --marionette
+1523963236760	Marionette	INFO	Listening on port 35489
+1523963236800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523963236943	geckodriver	INFO	geckodriver 0.19.1
+1523963236951	geckodriver	INFO	Listening on 127.0.0.1:50521
+1523963238176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3vBWf1KigQHV"
+1523963241804	Marionette	INFO	Enabled via --marionette
+1523963250042	Marionette	INFO	Listening on port 42007
+1523963250132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 6253, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6253, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6253, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523963323209	geckodriver	INFO	geckodriver 0.19.1
+1523963323215	geckodriver	INFO	Listening on 127.0.0.1:49845
+1523963324366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ehQNg2ZmOgmf"
+1523963325348	Marionette	INFO	Enabled via --marionette
+1523963328182	Marionette	INFO	Listening on port 46529
+1523963328282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523963328376	geckodriver	INFO	geckodriver 0.19.1
+1523963328380	geckodriver	INFO	Listening on 127.0.0.1:45733
+1523963329506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dziNrvsJeH2P"
+1523963330806	Marionette	INFO	Enabled via --marionette
+1523963334268	Marionette	INFO	Listening on port 36363
+1523963334326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 7095, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7095, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523963422950	geckodriver	INFO	geckodriver 0.19.1
+1523963422954	geckodriver	INFO	Listening on 127.0.0.1:47303
+1523963424068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Vivk5QDRllrE"
+1523963425068	Marionette	INFO	Enabled via --marionette
+1523963427998	Marionette	INFO	Listening on port 36411
+1523963428082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523963428176	geckodriver	INFO	geckodriver 0.19.1
+1523963428180	geckodriver	INFO	Listening on 127.0.0.1:60493
+1523963429302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l5ybPxwMvZOF"
+1523963430550	Marionette	INFO	Enabled via --marionette
+1523963434550	Marionette	INFO	Listening on port 38829
+1523963434620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523963640314	geckodriver	INFO	geckodriver 0.19.1
+1523963640320	geckodriver	INFO	Listening on 127.0.0.1:47503
+1523963641440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pf1ciDOR5Ehm"
+1523963642508	Marionette	INFO	Enabled via --marionette
+1523963645494	Marionette	INFO	Listening on port 40365
+1523963645560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523963645659	geckodriver	INFO	geckodriver 0.19.1
+1523963645664	geckodriver	INFO	Listening on 127.0.0.1:42229
+1523963646801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9JqOUIEXPAe4"
+1523963648174	Marionette	INFO	Enabled via --marionette
+1523963651790	Marionette	INFO	Listening on port 43771
+1523963651820	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8894, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8894, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8894, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523963666101	geckodriver	INFO	geckodriver 0.19.1
+1523963666106	geckodriver	INFO	Listening on 127.0.0.1:33593
+1523963667258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.u0Py8UFowlwv"
+1523963668258	Marionette	INFO	Enabled via --marionette
+1523963671714	Marionette	INFO	Listening on port 33343
+1523963671776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523963671896	geckodriver	INFO	geckodriver 0.19.1
+1523963671900	geckodriver	INFO	Listening on 127.0.0.1:44007
+1523963673032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bQGunr1QrxAC"
+1523963674300	Marionette	INFO	Enabled via --marionette
+1523963677886	Marionette	INFO	Listening on port 45579
+1523963677982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523964038889	geckodriver	INFO	geckodriver 0.19.1
+1523964038892	geckodriver	INFO	Listening on 127.0.0.1:39527
+1523964040057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GdDaIRVjNUCr"
+1523964041338	Marionette	INFO	Enabled via --marionette
+1523964044202	Marionette	INFO	Listening on port 33411
+1523964044280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523964044384	geckodriver	INFO	geckodriver 0.19.1
+1523964044389	geckodriver	INFO	Listening on 127.0.0.1:45205
+1523964045506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ya9cqhQB0v8P"
+1523964046892	Marionette	INFO	Enabled via --marionette
+1523964050192	Marionette	INFO	Listening on port 44881
+1523964050222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 11079, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523964151106	geckodriver	INFO	geckodriver 0.19.1
+1523964151111	geckodriver	INFO	Listening on 127.0.0.1:46553
+1523964152229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gp9L73EI0Bx9"
+1523964153186	Marionette	INFO	Enabled via --marionette
+1523964156088	Marionette	INFO	Listening on port 44597
+1523964156152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523964156255	geckodriver	INFO	geckodriver 0.19.1
+1523964156260	geckodriver	INFO	Listening on 127.0.0.1:51791
+1523964157377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.auThraZbyNwx"
+1523964158750	Marionette	INFO	Enabled via --marionette
+1523964162138	Marionette	INFO	Listening on port 40697
+1523964162294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 11497, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11497, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11497, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523964293706	geckodriver	INFO	geckodriver 0.19.1
+1523964293711	geckodriver	INFO	Listening on 127.0.0.1:57243
+1523964294824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LZ0sc5uliidC"
+1523964295808	Marionette	INFO	Enabled via --marionette
+1523964298762	Marionette	INFO	Listening on port 36461
+1523964298838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523964298944	geckodriver	INFO	geckodriver 0.19.1
+1523964298948	geckodriver	INFO	Listening on 127.0.0.1:53099
+1523964300071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hrWP16uNd9C4"
+1523964301462	Marionette	INFO	Enabled via --marionette
+1523964304570	Marionette	INFO	Listening on port 45577
+1523964304594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 12561, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+1523964501879	geckodriver	INFO	geckodriver 0.19.1
+1523964501884	geckodriver	INFO	Listening on 127.0.0.1:48461
+1523964503004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nZg7fonnwBTR"
+1523964503964	Marionette	INFO	Enabled via --marionette
+1523964506862	Marionette	INFO	Listening on port 45003
+1523964506928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523964507069	geckodriver	INFO	geckodriver 0.19.1
+1523964507076	geckodriver	INFO	Listening on 127.0.0.1:40913
+1523964508195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aqeubIjgTClF"
+1523964509360	Marionette	INFO	Enabled via --marionette
+1523964512718	Marionette	INFO	Listening on port 40105
+1523964512810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523964626780	geckodriver	INFO	geckodriver 0.19.1
+1523964626785	geckodriver	INFO	Listening on 127.0.0.1:57899
+1523964627905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1pG1t2kaqvIt"
+1523964628910	Marionette	INFO	Enabled via --marionette
+1523964631940	Marionette	INFO	Listening on port 35829
+1523964632022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523964632121	geckodriver	INFO	geckodriver 0.19.1
+1523964632128	geckodriver	INFO	Listening on 127.0.0.1:51587
+1523964633251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bt5PJ3w5o3qI"
+1523964634684	Marionette	INFO	Enabled via --marionette
+1523964638052	Marionette	INFO	Listening on port 45871
+1523964638082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14659, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14696, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14659, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14659, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523964693909	geckodriver	INFO	geckodriver 0.19.1
+1523964693914	geckodriver	INFO	Listening on 127.0.0.1:43337
+1523964695061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2ADtTi9l6V1A"
+1523964696028	Marionette	INFO	Enabled via --marionette
+1523964699010	Marionette	INFO	Listening on port 46797
+1523964699086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523964699188	geckodriver	INFO	geckodriver 0.19.1
+1523964699193	geckodriver	INFO	Listening on 127.0.0.1:36843
+1523964700310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tkP9PERMAtUp"
+1523964701854	Marionette	INFO	Enabled via --marionette
+1523964705104	Marionette	INFO	Listening on port 32789
+1523964705150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 8: ReferenceError: Chart is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.73a792b0fbc7ab73a8e3b3db9c36a8ac.html?origin=http%3A%2F%2Flocalhost%3A8000, line 12: Error: Network error.
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+[Child 15336, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15336, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15336, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523965450088	geckodriver	INFO	geckodriver 0.19.1
+1523965450093	geckodriver	INFO	Listening on 127.0.0.1:33911
+1523965451209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QyvxqJsphSWs"
+1523965452190	Marionette	INFO	Enabled via --marionette
+1523965455120	Marionette	INFO	Listening on port 38873
+1523965455226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523965455356	geckodriver	INFO	geckodriver 0.19.1
+1523965455361	geckodriver	INFO	Listening on 127.0.0.1:52677
+1523965456477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mSXSVtSbdD3f"
+1523965457786	Marionette	INFO	Enabled via --marionette
+1523965461160	Marionette	INFO	Listening on port 33669
+1523965461204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://localhost:8000/static/js/scriptMyContrib.js, line 14: ReferenceError: articlesContributed is not defined
+JavaScript error: http://localhost:8000/static/datatable/dataTables.bootstrap4.min.js, line 5: TypeError: f is undefined
+JavaScript error: http://localhost:8000/static/assets/plugins/script.js, line 4: TypeError: $(...).appear is not a function
+1523965467611	geckodriver	INFO	geckodriver 0.19.1
+1523965467618	geckodriver	INFO	Listening on 127.0.0.1:48745
+1523965468732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y5EisWnjbPww"
+1523965469694	Marionette	INFO	Enabled via --marionette
+1523965472780	Marionette	INFO	Listening on port 43135
+1523965472846	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

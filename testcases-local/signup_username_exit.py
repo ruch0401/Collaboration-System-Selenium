@@ -1,7 +1,7 @@
-__author__== 'anjali'
+__author__= 'anjali'
 import unittest
 from selenium import webdriver
-
+#
 class signup(unittest.TestCase):
 	
 	def setUp(self):
@@ -13,7 +13,7 @@ class signup(unittest.TestCase):
 		password= "coolguyss"
 		password_confirmation= "coolguyss"
 		driver = webdriver.Firefox()
-		driver.find_element_by_xpath('//a[@href="/signup/"]').click()
+		driver.get("http://localhost:8000/signup/")
 		elem = driver.find_element_by_id("username")
 		elem.send_keys(username)
 		elem = driver.find_element_by_id("email")
@@ -22,10 +22,11 @@ class signup(unittest.TestCase):
 		elem.send_keys(password)
 		elem = driver.find_element_by_id("password2")
 		elem.send_keys(password_confirmation)
-		elem = driver.find_element_by_id("id_Captcha")
-		elem.send_keys(Captcha)
+		#elem = driver.find_element_by_id("id_Captcha")
+		#elem.send_keys(Captcha)
 		driver.find_element_by_id('submit').click()
-		
+		driver.get("http://localhost:8000/login/?next=/")
+
 		
 	def tearDown(self):
 	        self.driver.quit()

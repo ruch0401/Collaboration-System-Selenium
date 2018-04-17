@@ -8,15 +8,16 @@ class Login(unittest.TestCase):
 
 	def test_Login(self):
 		user ="liken"
-		pwd= "coolguyss"
+		pwd= "coolguysss"
 		driver = webdriver.Firefox()
-		driver.find_element_by_xpath('//a[@href="/login/"]').click()
+		driver.get("http://10.129.26.119//login")
+		driver.get("http://localhost:8000/login/?next=/")
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
 		elem.send_keys(pwd)
 		driver.find_element_by_class_name('btn-block').click()
-		driver.find_element_by_xpath('//a[@href="/create_faq/"]').click()
+		driver.get("http://localhost:8000/create_faq/")
 		category="publishable"
 		order_no= "hab"
 		question= "what is test?"
