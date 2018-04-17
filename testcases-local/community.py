@@ -4,7 +4,7 @@ from selenium import webdriver
 
 class Login(unittest.TestCase):
 	def setUp(self):
-		self.driver = webdriver.Firefox(timeout=60)
+		self.driver = webdriver.Firefox()
 
 	def test_Login(self):
 		user ="liken"
