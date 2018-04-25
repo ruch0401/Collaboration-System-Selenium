@@ -11,7 +11,7 @@ class LoginWrong(unittest.TestCase):
 		user ="testuser"
 		pwd= "collaborative123"
 		driver = webdriver.Firefox()
-		driver.get("http://10.129.132.119/login")
+		driver.get("http://10.129.26.119/login")
 		elem = driver.find_element_by_id("id_username")
 		elem.send_keys(user)
 		elem = driver.find_element_by_id("id_password")
