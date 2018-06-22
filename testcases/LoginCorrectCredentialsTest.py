@@ -6,15 +6,15 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
 class LoginCorrect(unittest.TestCase):
-
-    def setUp(self):
+    driver = webdriver.Remote(command_executor='http://10.129.132.104:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
+   # def setUp(self):
         #self.driver = webdriver.Firefox()
-        self.driver = webdriver.Remote(command_executor='http://10.129.132.104:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
+        
 
     def test_LoginCorrect(self):
         user ="testuser"
         pwd= "collaborative"
-        driver = webdriver.Remote(command_executor='http://10.129.132.104:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
+        #driver = webdriver.Remote(command_executor='http://10.129.132.104:4444/wd/hub', desired_capabilities=DesiredCapabilities.FIREFOX) 
 
         #driver = webdriver.Firefox()
         driver.get("http://10.129.26.119//login")
