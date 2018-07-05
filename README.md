@@ -4,7 +4,7 @@
 
 1) Variable Names : 
       
-         PROJECT_PORT = 7000 (Not used anywhere.....)
+         PROJECT_PORT = 7000
          CONTENT_TOOLS_USER = root
          CONTENT_TOOLS_PASSWORD = root1234
          IP_ADDRESS= https://172.17.0.1:7000
