@@ -2,7 +2,7 @@
 
 # Selenium tests for Collaboration System
 
-1) .env file : 
+1) Variable Names : 
       
          PROJECT_PORT = 7000 (Not used anywhere.....)
          CONTENT_TOOLS_USER = root
