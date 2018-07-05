@@ -16,4 +16,4 @@ What is tested?
    3. Etherpad Module
    
    
-   All the test cases have been written and compiled in their respective folders.
+   All the test cases have been written and compiled in their respective folders..
